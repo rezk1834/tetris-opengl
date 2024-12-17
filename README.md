@@ -1,4 +1,3 @@
-```markdown
 # Tetris Game in OpenGL
 
 A simple and interactive Tetris game built using **C++** and **OpenGL**. This project demonstrates fundamental computer graphics concepts such as shape rendering, animations, and user interaction.
@@ -78,13 +77,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 **Contributions** are welcome! Feel free to fork this repository, make improvements, and submit pull requests.
-```
-
-### Key Points of the README:
-1. **Comprehensive Feature List**: Explains gameplay mechanics and features.
-2. **Setup Instructions**: Covers compiling and running the game.
-3. **Controls**: Lists key bindings for player interaction.
-4. **Future Enhancements**: Outlines possible improvements for contributors.
-5. **Screenshots**: Placeholder for adding images of the game.
-6. **License**: Encourages clarity regarding project usage rights.
 ```
